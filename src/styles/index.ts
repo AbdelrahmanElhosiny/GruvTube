@@ -1,9 +1,9 @@
 import font from "./font";
-import colorD from "./color";
+import color from "./color";
 
 const style = {
   font,
-  colorD,
+  color,
 };
 
 export default style;
